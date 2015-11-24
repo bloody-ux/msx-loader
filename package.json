@@ -4,8 +4,8 @@
   "description": "MSX loader for webpack",
   "main": "index.js",
   "dependencies": {
-    "msx": "0.3.0",
-    "loader-utils": "0.2.6"
+    "loader-utils": "^0.2.11",
+    "msx": "^0.4.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
