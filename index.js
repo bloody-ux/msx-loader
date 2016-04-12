@@ -14,7 +14,9 @@ module.exports = function(source) {
 
   var whitelist = {
     harmony: true,
-    precompile: true
+    precompile: true,
+    es6module: true,
+    nonStrictEs6module: true
   };
 
   var unknownParams = [];
