@@ -1,5 +1,5 @@
 var loaderUtils = require('loader-utils');
-var msx = require('msx');
+var msx = require('msx-x');
 
 module.exports = function(source) {
   this.cacheable();

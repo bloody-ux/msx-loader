@@ -1,18 +1,18 @@
 {
-  "name": "msx-loader",
-  "version": "0.4.0",
+  "name": "msx-x-loader",
+  "version": "0.1.0",
   "description": "MSX loader for webpack",
   "main": "index.js",
   "dependencies": {
     "loader-utils": "^0.2.11",
-    "msx": "^0.4.1"
+    "msx-x": "^0.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sdemjanenko/msx-loader"
+    "url": "git://github.com/bloody-ux/msx-x-loader.git"
   },
   "keywords": [
     "webpack",
@@ -20,6 +20,6 @@
     "msx",
     "mithril"
   ],
-  "author": "Stephen Demjanenko",
+  "author": "Youxiang Lu",
   "license": "Apache 2"
 }
